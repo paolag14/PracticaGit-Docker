@@ -1,3 +1,3 @@
 FROM httpd
 
-COPY ./public-hmtl/ /usr/local/apache2/htdocs/
+COPY ./public-html/ /usr/local/apache2/htdocs/
